@@ -1,0 +1,13 @@
+c:\Users\HASAN\Desktop\CaseDeneme3\carg\target\debug\deps\sha2-f76ce1cf9169a129.rmeta: C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\lib.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\core_api.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\consts.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\soft.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\x86.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\soft.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\x86.rs
+
+c:\Users\HASAN\Desktop\CaseDeneme3\carg\target\debug\deps\sha2-f76ce1cf9169a129.d: C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\lib.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\core_api.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\consts.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\soft.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\x86.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\soft.rs C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\x86.rs
+
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\lib.rs:
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\core_api.rs:
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256.rs:
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512.rs:
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\consts.rs:
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\soft.rs:
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\x86.rs:
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\soft.rs:
+C:\Users\HASAN\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\x86.rs:
